@@ -1,0 +1,30 @@
+{
+  "short_name": "TaskMaster Pro",
+  "name": "TaskMaster Pro - Modern To-Do Application",
+  "icons": [
+    {
+      "src": "dc56c164-98b9-4762-9c02-f6a3d6fc6512.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+} 
